@@ -5,6 +5,6 @@ package com.app.demo.PresentProject;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("HELLO World!");
+        System.out.println("HELLo World!");
     }
 }
